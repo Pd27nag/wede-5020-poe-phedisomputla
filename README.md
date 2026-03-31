@@ -19,6 +19,6 @@ Pull this from your project proposal.
 
 ## Sitemap
 
-![Website Sitemap](img/Sitemap-Structure.png)
+![Website Sitemap](img/mysitemap.png)
 
 ## References
