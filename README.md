@@ -2,7 +2,7 @@
 Part 1 POE
 
 ## Student Information
-**Student number:** ST10530371 <br>
+**Student number:** ST10530371 
 **Student Name:** PHEDISO AMANTLE MPUTLA
 
 ## Project Overview
@@ -37,7 +37,7 @@ The plan spans four weeks:
 
 ## Sitemap
 
-[Website Sitemap](![alt text](<img/My site map.png>))
+(![alt text](<img/My site map.png>))
 
 ## References
 
