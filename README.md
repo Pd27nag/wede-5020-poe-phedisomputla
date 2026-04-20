@@ -37,7 +37,7 @@ The plan spans four weeks:
 
 ## Sitemap
 
-![Website Sitemap](img/My site map.png) <br>
+[Website Sitemap](![alt text](<img/My site map.png>))
 
 ## References
 
